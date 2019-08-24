@@ -1,1 +1,2 @@
 Branch 2: First text file
+Changes in master
